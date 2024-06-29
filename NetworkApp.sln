@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5_NetworkApp_TcpClient", "N
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6_NetworkApp_UDP_Chat", "6_NetworkApp_UDP_Chat\6_NetworkApp_UDP_Chat.csproj", "{0731498F-43CF-42C2-8093-815FD9303174}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7_NetworkApp_WebClient", "7_NetworkApp_WebClient\7_NetworkApp_WebClient.csproj", "{33526C28-9E89-44E2-BAAB-475934133419}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{0731498F-43CF-42C2-8093-815FD9303174}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0731498F-43CF-42C2-8093-815FD9303174}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0731498F-43CF-42C2-8093-815FD9303174}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33526C28-9E89-44E2-BAAB-475934133419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33526C28-9E89-44E2-BAAB-475934133419}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33526C28-9E89-44E2-BAAB-475934133419}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33526C28-9E89-44E2-BAAB-475934133419}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
